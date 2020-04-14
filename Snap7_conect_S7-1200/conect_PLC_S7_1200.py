@@ -1,5 +1,5 @@
 # Library Snap7
-# Connection with the PLC controller
+# Connection with the PLC controller S7 1200
 # by  Radosław Tecmer
 # e-mail radek69tecmer@gmail.com
 # --------------------------------------------------
